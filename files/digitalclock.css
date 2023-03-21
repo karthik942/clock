@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+#Time{
+   text-align: center;
+    font-size: 100px;
+    padding-top: 250px;
+}
+#Date{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px; 
+
+}
+#Day{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
